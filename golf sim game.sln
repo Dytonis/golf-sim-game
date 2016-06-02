@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "golf sim game.CSharp", "golf sim game.CSharp.csproj", "{1853B85D-2AE0-7F00-C8A0-3BF5A6D6187F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "golf sim game.CSharp.Editor", "golf sim game.CSharp.Editor.csproj", "{758E177D-651C-B55A-6374-7D04EF51969F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1853B85D-2AE0-7F00-C8A0-3BF5A6D6187F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1853B85D-2AE0-7F00-C8A0-3BF5A6D6187F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1853B85D-2AE0-7F00-C8A0-3BF5A6D6187F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1853B85D-2AE0-7F00-C8A0-3BF5A6D6187F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{758E177D-651C-B55A-6374-7D04EF51969F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758E177D-651C-B55A-6374-7D04EF51969F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758E177D-651C-B55A-6374-7D04EF51969F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758E177D-651C-B55A-6374-7D04EF51969F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
